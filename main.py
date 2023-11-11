@@ -1,4 +1,5 @@
-a = True
-while a:
+a = False
+b = True
+while b:
     print("12345")
 
